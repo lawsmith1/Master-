@@ -1,0 +1,13 @@
+# Ignore Termux junk
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+node_modules/
+__pycache__/
+.env
+*.tar
+*.zip
+*.apk
+
